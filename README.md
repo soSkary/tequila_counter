@@ -1,1 +1,3 @@
-TODO! Write a description of this project!
+=== Tequila counter ===
+
+This is a simple webapp project made for fun by @soskary and @GGingerbeardman.
